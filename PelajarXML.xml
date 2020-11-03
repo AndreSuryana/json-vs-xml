@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<paraPelajar>
+    <pelajar>
+        <pelajarID>1</pelajarID>
+        <username>andresuryana</username>
+        <password>ada48f60a8f2f34460b7b3a90fd9098c</password>
+        <namaDepan>Andre</namaDepan>
+        <namaBelakang>Suryana</namaBelakang>
+        <dateOfBirth>2001-11-17</dateOfBirth>
+        <email>Andresuryana17@gmail.com</email>
+        <noHP>081239732992</noHP>
+        <paraPengajar>
+            <pengajar>
+                <namaDepan>Bambang</namaDepan>
+                <namaBelakang>Subianto</namaBelakang>
+            </pengajar>
+            <pengajar>
+                <namaDepan>Susi</namaDepan>
+                <namaBelakang>Susanti</namaBelakang>
+            </pengajar>
+            <pengajar>
+                <namaDepan>Dewi</namaDepan>
+                <namaBelakang>Kartika</namaBelakang>
+            </pengajar>
+            <pengajar>
+                <namaDepan>Ayu</namaDepan>
+                <namaBelakang>Putri</namaBelakang>
+            </pengajar>
+        </paraPengajar>
+        <kelas>
+            <namaKelas>Matematika</namaKelas>
+            <namaKelas>Ilmu Pengetahuan Alam</namaKelas>
+            <namaKelas>Bahasa Inggris</namaKelas>
+            <namaKelas>Bahasa Indonesia</namaKelas>
+        </kelas>
+    </pelajar>
+    <pelajar>
+        <pelajarID>2</pelajarID>
+        <username>rafifjhordi</username>
+        <password>460b7b3a90fd9098cada48f60a8f2f34</password>
+        <namaDepan>Rafif</namaDepan>
+        <namaBelakang>Jhordi</namaBelakang>
+        <dateOfBirth>2001-05-15</dateOfBirth>
+        <email>rafifjhordi99@gmail.com</email>
+        <noHP>081234567891</noHP>
+        <paraPengajar>
+            <pengajar>
+                <namaDepan>Bambang</namaDepan>
+                <namaBelakang>Subianto</namaBelakang>
+            </pengajar>
+            <pengajar>
+                <namaDepan>Susi</namaDepan>
+                <namaBelakang>Susanti</namaBelakang>
+            </pengajar>
+            <pengajar>
+                <namaDepan>Dewi</namaDepan>
+                <namaBelakang>Kartika</namaBelakang>
+            </pengajar>
+            <pengajar>
+                <namaDepan>Ayu</namaDepan>
+                <namaBelakang>Putri</namaBelakang>
+            </pengajar>
+        </paraPengajar>
+        <kelas>
+            <namaKelas>Matematika</namaKelas>
+            <namaKelas>Ilmu Pengetahuan Alam</namaKelas>
+            <namaKelas>Bahasa Inggris</namaKelas>
+            <namaKelas>Bahasa Indonesia</namaKelas>
+        </kelas>
+    </pelajar>
+</paraPelajar>

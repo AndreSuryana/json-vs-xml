@@ -1,0 +1,53 @@
+{
+    "pelajar": 
+    [
+        {
+            "pelajarID":"1",
+            "username":"andresuryana",
+            "password":"ada48f60a8f2f34460b7b3a90fd9098c",
+            "namaDepan":"Andre",
+            "namaBelakang":"Suryana",
+            "dateOfBirth":"2001-11-17",
+            "email":"Andresuryana17@gmail.com",
+            "noHP":"081239732992",
+            "pengajar":
+            [
+                {"namaDepan":"Bambang", "namaBelakang":"Subianto"},
+                {"namaDepan":"Susi", "namaBelakang":"Susanti"},
+                {"namaDepan":"Dewi", "namaBelakang":"Kartika"},
+                {"namaDepan":"Ayu", "namaBelakang":"Putri"}
+            ],
+            "kelas":
+            [
+                {"namaKelas":"Matematika"},
+                {"namaKelas":"Ilmu Pengetahuan Alam"},
+                {"namaKelas":"Bahasa Inggris"},
+                {"namaKelas":"Bahasa Indonesia"}
+            ]
+        },
+        {
+            "pelajarID":"2",
+            "username":"rafifjhordi",
+            "password":"460b7b3a90fd9098cada48f60a8f2f34",
+            "namaDepan":"Rafif",
+            "namaBelakang":"Jhordi",
+            "dateOfBirth":"2001-05-15",
+            "email":"rafifjhordi99@gmail.com",
+            "noHP":"081234567891",
+            "pengajar":
+            [
+                {"namaDepan":"Bambang", "namaBelakang":"Subianto"},
+                {"namaDepan":"Susi", "namaBelakang":"Susanti"},
+                {"namaDepan":"Dewi", "namaBelakang":"Kartika"},
+                {"namaDepan":"Ayu", "namaBelakang":"Putri"}
+            ],
+            "kelas":
+            [
+                {"namaKelas":"Matematika"},
+                {"namaKelas":"Ilmu Pengetahuan Alam"},
+                {"namaKelas":"Bahasa Inggris"},
+                {"namaKelas":"Bahasa Indonesia"}
+            ]
+        }
+    ]
+}
